@@ -1,0 +1,12 @@
+/Library
+/*.sln
+/*.csproj
+/obj/Debug
+/*.suo
+/Temp
+.hg
+.vs
+Logs
+*.userproperties
+Packages
+UserSettings

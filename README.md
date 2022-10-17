@@ -1,0 +1,3 @@
+Except where otherwise noted, this work is available under Creative Commons Attribution 4.0 International License [![Creative Commons Attribution 4.0 International License.](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/).
+
+The CC license does not apply to [BasicButtonsPackage](https://www.assetstore.unity3d.com/en/#!/content/15351). To use it for commercial purposes you must ask [GameCube's](https://www.assetstore.unity3d.com/en/#!/search/page=1/sortby=popularity/query=publisher:5840) approval (gcassets@gmail.com).
